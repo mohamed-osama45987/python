@@ -4,3 +4,7 @@ https://www.youtube.com/watch?v=ix9cRaBkVe0
 content:
 
 001 basics cover how to define variables and type casting and how to accept user input from the stdin.
+
+002 arithmetics covers build in math class and some aritmatic operators
+
+003 contidtional statments if and switch statments
