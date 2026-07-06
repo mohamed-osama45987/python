@@ -7,4 +7,8 @@ content:
 
 002 arithmetics covers build in math class and some aritmatic operators
 
-003 contidtional statments if and switch statments
+003 contidtional statments if and switch statments and Ternary operator
+
+004 logical operators or, not, and
+
+005 common built in methods for string manipulation len, find, rfind, capitalize, upper, lower , isdigit , isalpha, count and replace
