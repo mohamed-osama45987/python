@@ -12,3 +12,13 @@ content:
 004 logical operators or, not, and
 
 005 common built in methods for string manipulation len, find, rfind, capitalize, upper, lower , isdigit , isalpha, count and replace
+
+006 string indexing using [start:end:step] to access specifc parts of a string and alos how to reverse a string
+
+007 format specifiers allow you to control what kind of formating within f strings
+
+008 loops while and for loops
+
+009 list , set , 2d lists and tuples
+
+010 dictionaries 

@@ -3,7 +3,7 @@
 # username can not contain spaces
 # username must not have digits
 
-
+ 
 username = input("Enter user name : ")
 
 if username.isalpha() != True:
