@@ -1,6 +1,7 @@
 # () ordered and unchangable duplicates are okay and faster that a list
 # the difference that tuples are not immutable meaning you can not remove or add any thing to it
 # once the creation is completed
+# like enum in TS
 
 fruits = ("apple", "orange", "banana", "coconut")
 
