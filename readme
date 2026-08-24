@@ -21,4 +21,14 @@ content:
 
 009 list , set , 2d lists and tuples
 
-010 dictionaries 
+010 dictionaries cover dictionaries DS
+
+011 random cover random module
+
+012 functions cover how to define functions in py
+
+013 list comprehensions cover how to make new lists from old lists in a compact way witout a loop example find even [num for num in nums if num % 2 == 0]
+
+014 module allow you to devide program into files and import code from other files
+
+015 scope resolution (LEGB) local -> Enclosed -> Global -> Build-in
